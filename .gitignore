@@ -1,2 +1,4 @@
 **/node_modules/**
+/app/
+!/node-exercises/basic/
 /node-exercises/

@@ -1,5 +1,6 @@
 **/node_modules/**
 /app/
+.idea
 !/node-exercises/basic/
 #!/node-exercises/posting/
 #!/node-exercises/static-assets/

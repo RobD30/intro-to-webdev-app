@@ -1,4 +1,9 @@
 **/node_modules/**
 /app/
 !/node-exercises/basic/
+#!/node-exercises/posting/
+#!/node-exercises/static-assets/
+#!/node-exercises/params/
+#!/node-exercises/cheer-jeer/
+#!/node-exercises/express/
 /node-exercises/

@@ -1,7 +1,7 @@
 {
   "name": "intro-to-webdev-app",
   "version": "1.0.0",
-  "description": "This is a cool express app",
+  "description": "This is a posting app",
   "main": "app.js",
   "scripts": {
     "test": "npm test"
@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/RobD30/intro-to-webdev-app.git"
   },
-  "author": "Me",
+  "author": "Rob",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RobD30/intro-to-webdev-app/issues"
   },
   "homepage": "https://github.com/RobD30/intro-to-webdev-app#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2"
   }
 }
